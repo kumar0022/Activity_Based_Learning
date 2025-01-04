@@ -205,15 +205,15 @@ const gradeContent = {
     }
 
   },
-  'Grade 7': {
-    Science: {
+  // 'Grade 7': {
+  //   Science: {
 
-    },
-    Mathematics: {
+  //   },
+  //   Mathematics: {
 
-    }
+  //   }
 
-  }
+  // }
 };
 
 
